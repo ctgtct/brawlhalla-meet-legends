@@ -239,6 +239,9 @@ def display_legends(legends: List[str]):
 		st.write("No legends found.")
 		return
 
+	# Sort legend names alphabetically (case-insensitive)
+	legends = sorted(legends, key=str.lower)
+
 	# Build HTML table
 	css = """
  	<style>
