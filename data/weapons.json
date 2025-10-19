@@ -1,0 +1,164 @@
+{
+    "Blasters": [
+        "Ada",
+        "Barraza",
+        "Cassidy",
+        "Cross",
+        "Diana",
+        "Isaiah",
+        "Lord Vraxx",
+        "Lucien",
+        "Nix",
+        "Reno",
+        "Thatch",
+        "Vivi"
+    ],
+    "Spear": [
+        "Ada",
+        "Arcadia",
+        "Brynn",
+        "Dusk",
+        "Gnash",
+        "Hattori",
+        "Kaya",
+        "Mirage",
+        "Orion",
+        "Queen Nai",
+        "Seven",
+        "Wu Shang"
+    ],
+    "Rocket Lance": [
+        "Artemis",
+        "Lord Vraxx",
+        "Orion",
+        "Scarlet",
+        "Sir Roland",
+        "Thea",
+        "Ulgrim",
+        "Vector"
+    ],
+    "Katars": [
+        "Asuri",
+        "Caspian",
+        "Ember",
+        "Lin Fei",
+        "Loki",
+        "Lucien",
+        "Mako",
+        "Queen Nai",
+        "Ragnir",
+        "Sentinel"
+    ],
+    "Bow": [
+        "Azoth",
+        "Diana",
+        "Ember",
+        "Kaya",
+        "Koji",
+        "Munin",
+        "Ransom",
+        "Vector",
+        "Yumiko",
+        "Zariel"
+    ],
+    "Axe": [
+        "Azoth",
+        "Barraza",
+        "Brynn",
+        "Imugi",
+        "Jhala",
+        "Ragnir",
+        "Rayman",
+        "Teros",
+        "Ulgrim",
+        "Volkov",
+        "Xull"
+    ],
+    "Hammer": [
+        "Bodvar",
+        "Cassidy",
+        "Gnash",
+        "King Zuva",
+        "Kor",
+        "Magyar",
+        "Scarlet",
+        "Sentinel",
+        "Teros",
+        "Thor",
+        "Yumiko"
+    ],
+    "Gauntlets": [
+        "Caspian",
+        "Cross",
+        "Kor",
+        "Mordex",
+        "Onyx",
+        "Petra",
+        "Rayman",
+        "Tezca",
+        "Val",
+        "Wu Shang",
+        "Zariel"
+    ],
+    "Sword": [
+        "Asuri",
+        "Bodvar",
+        "Ezio",
+        "Hattori",
+        "Jaeyun",
+        "Jhala",
+        "Jiro",
+        "Koji",
+        "Priya",
+        "Sidra",
+        "Sir Roland",
+        "Thatch",
+        "Val"
+    ],
+    "Scythe": [
+        "Artemis",
+        "Fait",
+        "Jiro",
+        "Loki",
+        "Mirage",
+        "Mordex",
+        "Munin",
+        "Nix",
+        "Volkov"
+    ],
+    "Cannon": [
+        "Isaiah",
+        "Lin Fei",
+        "Onyx",
+        "Seven",
+        "Sidra",
+        "Xull"
+    ],
+    "Chakram": [
+        "Priya",
+        "Ransom"
+    ],
+    "Battle Boots": [
+        "King Zuva",
+        "Red Raptor",
+        "Tezca",
+        "Thea",
+        "Vivi"
+    ],
+    "Greatsword": [
+        "Arcadia",
+        "Imugi",
+        "Jaeyun",
+        "Magyar",
+        "Mako"
+    ],
+    "Orb": [
+        "Dusk",
+        "Ezio",
+        "Fait",
+        "Petra",
+        "Red Raptor",
+        "Reno",
+        "Thor"
+    ]
+}
